@@ -25,7 +25,7 @@ else:
     c=a*x 
     print("Los ekvationen ",a,"x =",c)
 
-svar=int(input("Svar: "))
+svar=int(input("Vad ar 'x': "))
 
 if svar==x:
     print("Ratt svar")
